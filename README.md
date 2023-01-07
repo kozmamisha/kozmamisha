@@ -1,5 +1,13 @@
 ### I am junior Frontend Developer 👋
 
+### Language and Tools
+
+![Scss](https://img.shields.io/badge/-Scss-black?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+
 <!--
 **kozmamisha/kozmamisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

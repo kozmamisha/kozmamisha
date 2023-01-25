@@ -1,4 +1,4 @@
-### I am junior Frontend Developer 👋
+### I am Frontend React Developer 👋
 
 ### Language and Tools
 

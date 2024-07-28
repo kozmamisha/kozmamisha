@@ -1,4 +1,4 @@
-### I am Frontend React Developer 👋
+### Hi, I am Frontend React Developer 👋
 
 ### Language and Tools
 

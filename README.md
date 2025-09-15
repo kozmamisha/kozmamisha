@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I am .NET Backend Developer 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kozmamisha&style=for-the-badge&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/kozmamisha?style=for-the-badge&logo=github" alt="followers"/>
-</p>
-
 ---
 
 ## 🚀 Languages & Frameworks
@@ -27,14 +22,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kozmamisha&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kozmamisha&theme=radical" alt="streak"/>
-</p>
 
 ---
 
